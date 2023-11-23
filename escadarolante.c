@@ -151,6 +151,19 @@ void* pessoa(void* args) {
                                 tempo_final = tempo_ultima_pessoa + 18;
                             }else{
                                 tempo_final = tempo_ultima_pessoa + 20;
+                                // Obtem os dados para calcular a diferença de tempo
+                                if(ponto_mudanca == 0){
+                                    diferenca = 0;
+                                }else{
+                                    diferenca = ((ponto_mudanca) * 10);
+                                }
+
+                                if(ponto_mudanca == 0){
+                                    // Calcula a diferença de tempo
+                                tempo_diferenca = (tempo_ponto_mudanca - diferenca);
+                                tempo_diferenca_positivo = abs(tempo_diferenca);
+                                tempo_final =(qtd_d_inicio * 10) + 10 + tempo_ponto_mudanca;
+                                }
                             }
                         }
                 }else if (tempo_ponto_mudanca == 9){
@@ -319,6 +332,9 @@ int main(int argc, char *argv[]) {
         pthread_join(threads[i], NULL);
     }
 
+    // Impressões:
+    printf("Controle de dados para manipulação:\n");
+    printf("----------------------------------------------------------------------------------------------------------\n");
     printf("Índice da primeira mudança de direção: %d\n", ponto_mudanca);
     printf("Quantidade total de mudanças de direção: %d\n", qtd_d_mudanca);
     printf("Quantidade de direções iguais a 0: %d\n", qtd_direcao_0);
@@ -327,6 +343,8 @@ int main(int argc, char *argv[]) {
     printf("Quantidade de vezes que a direção igual à direção do ponto de mudança aparece: %d\n", qtd_d_mudanca_point);
     printf("Tempo da última pessoa: %d\n", tempo_ultima_pessoa);
     printf("Tempo no ponto de mudança: %d\n", tempo_ponto_mudanca);
+    printf("----------------------------------------------------------------------------------------------------------\n");
+    printf("Saída:\n");
     printf("Tempo final: %d\n", tempo_final);
 
     fclose(file);
