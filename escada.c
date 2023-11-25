@@ -12,8 +12,7 @@ PROJETO 2: ESCADA ROLANTE
 #include <pthread.h> // importamos a biblioteca ptherad para usar o mutex
 #include <locale.h>
 
-#define MAX_PEOPLE 10000
-
+#define MAX_PEOLPE 10000
 // Declaração das variáveis.
 int n;
 int tempo_atual = 0;
