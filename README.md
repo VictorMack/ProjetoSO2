@@ -360,8 +360,11 @@ O programa pode representar um problema de concorrência em sistemas operacionai
 
 ### Tarefas de cada integrante
 Davi: Ficou responsável pela criação do relatório.
+
 Victor: Realização da submissão do código no GitHub pelo aws.
+
 Yuri: Registro das evidências.
+
 Vale ressaltar que, todos os integrantes tiveram participação na construção do código, assim como pesquisas para enriquecer o projeto. Foram realizadas reuniões entre o grupo via Discord  (Ferramenta grátis de conversas via chat, vídeo e voz muito utilizada pela comunidade gamer) para a construção do código em C.
 
 ### Dificuldades
