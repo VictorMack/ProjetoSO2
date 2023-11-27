@@ -39,3 +39,22 @@ Em seguida, após o loop é verificado se ainda há espera pendente, caso tenha 
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/a07b2c53-3780-419f-b891-4121d2595b8f)
 
 ## Submissão do código no GitHub
+
+1 – Com repositório no GitHub criado e com a chave que permite escrita deployada , conseguiremos começar a trabalhar no terminal Linux para a conclusão do projeto.
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/817adde4-7ee8-4205-8ccf-48093b599d1c)
+
+2 – Com o arquivo que ira receber o nosso código criado, podemos inserir nele o Código Final. Segue abaixo fotos do código sendo inserido no arquivo.
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/97a1573b-0bcd-45f2-8325-9ae62f82f4fb)
+
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/17ebd040-e890-406e-96a5-6d43c5709a08)
+
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/2430c859-63f1-4eb1-ad6f-ff4e88fd219d)
+
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/3295508f-ad1c-4587-b6b0-1d9b5599a97a)
+
+3 – Feito isso , podemos mandar o nosso arquivo para nosso repositório GitHub.
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/1e36c55a-fc87-4d65-97eb-dd67b7a843c7)
+
+4 – E por fim mandamos o arquivo compilado para o repositório GitHub também
+![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/adb97d45-eae1-40fc-8a80-2bbdb1a371b4)
+
