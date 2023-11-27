@@ -59,3 +59,5 @@ Em seguida, após o loop é verificado se ainda há espera pendente, caso tenha 
 4 – E por fim mandamos o arquivo compilado para o repositório GitHub também
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/adb97d45-eae1-40fc-8a80-2bbdb1a371b4)
 
+## Evidências
+
