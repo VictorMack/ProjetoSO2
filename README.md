@@ -44,6 +44,7 @@ Em seguida, após o loop é verificado se ainda há espera pendente, caso tenha 
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/817adde4-7ee8-4205-8ccf-48093b599d1c)
 
 2 – Com o arquivo que ira receber o nosso código criado, podemos inserir nele o Código Final. Segue abaixo fotos do código sendo inserido no arquivo.
+
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/97a1573b-0bcd-45f2-8325-9ae62f82f4fb)
 
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/17ebd040-e890-406e-96a5-6d43c5709a08)
