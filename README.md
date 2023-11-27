@@ -369,3 +369,12 @@ Vale ressaltar que, todos os integrantes tiveram participação na construção 
 - Obter o resultado de saída necessário em alguns casos.
 - Criação de validações precisas.
 - Formatar o código de uma forma genérica para que pudesse interpretar todos os tipos de entradas.
+
+
+## Referências
+
+Carvalho, Andre. 1.1 - Gerência de Processos [SO UFAM]. YouTube, 10 de set. de 2020. Disponível em: <https://youtu.be/4ZeQ7VoWT0U?si=ElzRlQpw5diT6vnX>. Acessado em: 15 de nov. de 2023.
+
+Carvalho, Andre. 1.2 - Gerência de Processos [SO UFAM]. YouTube, 10 de set. de 2020. Disponível em: <https://youtu.be/LyAAXCNuU6g?si=Na0OvXYnWmszO4hE>. Acessado em: 17 de nov. de 2023.
+
+Carvalho, Andre. 1.3 - Estados de um processo [SO UFAM]. YouTube, 10 de set. de 2020. Disponível em: <https://youtu.be/0zzro0GYhl4?si=-MvaFoajTb3f7IWF>. Acessado em: 18 de nov. de 2023.
