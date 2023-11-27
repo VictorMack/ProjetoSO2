@@ -351,3 +351,21 @@ Arquivo E_58:
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/6b91111d-8ca0-4222-97ca-e8e253c0fbc4)
 
 
+
+## Considerações finais
+
+### Objetivo do trabalho
+
+O programa pode representar um problema de concorrência em sistemas operacionais, onde múltiplos processos (ou pessoas, nesse contexto) competem por recursos compartilhados, neste caso, a escada rolante de via dupla. A necessidade de esperar se a escada estiver indo para o lado contrário indica a importância de sincronização e controle de acesso para evitar conflitos durante a utilização do recurso compartilhado. Esse tipo de situação é comum em sistemas operacionais multitarefa, onde vários processos concorrem por recursos limitados. A analogia da escada rolante pode ser aplicada tanto à memória física quanto à lógica em um sistema computacional.
+
+### Tarefas de cada integrante
+Davi: Ficou responsável pela criação do relatório.
+Victor: Realização da submissão do código no GitHub pelo aws.
+Yuri: Registro das evidências.
+Vale ressaltar que, todos os integrantes tiveram participação na construção do código, assim como pesquisas para enriquecer o projeto. Foram realizadas reuniões entre o grupo via Discord  (Ferramenta grátis de conversas via chat, vídeo e voz muito utilizada pela comunidade gamer) para a construção do código em C.
+
+### Dificuldades
+- Realizar o gerenciamento das pessoas para evitar a concorrência, pensamos até na utilização de threads.
+- Obter o resultado de saída necessário em alguns casos.
+- Criação de validações precisas.
+- Formatar o código de uma forma genérica para que pudesse interpretar todos os tipos de entradas.
