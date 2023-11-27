@@ -10,7 +10,7 @@ Nome: Yuri - TIA: 32230877
 
 Professor: Eduardo Santos
 
-TURMA: 4N
+Turma: 4N
 
 Projeto 2: Escada rolante
 
@@ -34,7 +34,8 @@ Após isso é iniciado o loop para mover as pessoas na escada. O time_to_move se
 Caso o passageiro tenha tido que se mover e teve espera, o tempo de espera é adicionado no tempo atual, indicada a mudança de direção e espera fica como false, pois o valor de espera já foi incrementado. Sempre que houver espera a pessoa deve ser analisada novamente.
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/9863787c-5ddf-4c88-93d4-052b1af4c9a8)
 
-Em seguida, após o loop é verificado se ainda há espera pendente, caso tenha é adicionado 10 ao tempo final. Por fim, o tempo de saída do último passageiro é impresso.
+Em seguida, após o loop é verificado se ainda há espera pendente, caso tenha é adicionado 10 ao tempo final. Por fim, o tempo de saída do último passageiro é impressa.
+
 ![image](https://github.com/VictorMack/ProjetoSO2/assets/62074503/a07b2c53-3780-419f-b891-4121d2595b8f)
 
 ## Submissão do código no GitHub
